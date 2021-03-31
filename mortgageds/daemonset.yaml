@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: mortgageds-mortgage
-          image: 'fxiang/mortgage:0.4.0'
+          image: 'quay.io/dberg1/mortgage:0.4.0'
           ports:
             - containerPort: 9080
               protocol: TCP

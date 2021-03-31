@@ -7,7 +7,7 @@ The application resources are stored in **sample-*** folders in this repo.
 
 To deploy a sample, do the following:
 
-1. git clone https://github.com/fxiang1/app-samples.git
+1. git clone https://github.com/dberg1/app-samples.git
 
 2. oc login to your hub cluster
 

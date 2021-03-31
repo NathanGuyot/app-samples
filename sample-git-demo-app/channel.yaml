@@ -4,5 +4,5 @@ metadata:
   name: git-helm-ch
   namespace: demo-ns-helm-git-ch
 spec:
-  pathname: 'https://github.com/fxiang1/app-samples.git'
+  pathname: 'https://github.com/dberg1/app-samples.git'
   type: Git
